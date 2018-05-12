@@ -28,8 +28,8 @@ namespace BinanceExchange.Console
         public static async Task Main(string[] args)
         {
             //Provide your configuration and keys here, this allows the client to function as expected.
-            string apiKey = "YOUR_API_KEY";
-            string secretKey = "YOUR_SECRET_KEY";
+            string apiKey = "ivPU8HX5EeLonMD5xTQgqzxpqhbmsESQfy2HsxHuPaeGPncoOwOsM6VFd38NAfDc";
+            string secretKey = "Ke5qxRfA9eOLbjjVud4eEnWsMUJms9VKbgOWIOm9jGFTYm6xKoEcLSUx9Y69g2bz";
 
             System.Console.WriteLine("--------------------------");
             System.Console.WriteLine("BinanceExchange API - Tester");
